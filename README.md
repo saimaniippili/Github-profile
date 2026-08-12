@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.jpg" width="100%" style="border-radius: 10px; border: 4px solid #ffde00;" alt="Header" />
+
 </div>
 
 <br/>
