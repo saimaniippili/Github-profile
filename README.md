@@ -2,8 +2,6 @@
 
 <br/>
 
-<div align="center"><h2>🃏 GITHUB POKEMON CARD</h2><a href="https://github.com/Leorev01/pokemon-profile-card"><img src="https://profile-card-ten-green.vercel.app/api/card?username=saimaniippili&type=dark" alt="GitHub Pokemon Card" width="400" /></a></div>
-
 <br/>
 
 <div align="center"><h2>🐍 CONTRIBUTION SNAKE</h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saimaniippili/saimaniippili/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saimaniippili/saimaniippili/output/github-contribution-grid-snake.svg"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saimaniippili/saimaniippili/output/github-contribution-grid-snake.svg"></picture></div>
