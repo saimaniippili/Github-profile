@@ -2,7 +2,7 @@
 
 <br/>
 
-<div align="center"><h2>🏙️ 3D CONTRIBUTION CITY</h2><img src="https://raw.githubusercontent.com/saimaniippili/saimaniippili/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" /></div>
+<div align="center"><h2>🃏 GITHUB POKEMON CARD</h2><a href="https://github.com/Leorev01/pokemon-profile-card"><img src="https://profile-card-ten-green.vercel.app/api/card?username=saimaniippili&type=dark" alt="GitHub Pokemon Card" width="400" /></a></div>
 
 <br/>
 
