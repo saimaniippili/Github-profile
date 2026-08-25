@@ -2,7 +2,7 @@
 
 <br/>
 
-<div align="center"><h2>🏆 GITHUB TROPHIES</h2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimaniippili&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="saimaniippili trophies" /></a></div>
+<div align="center"><h2>🏙️ 3D CONTRIBUTION CITY</h2><img src="https://raw.githubusercontent.com/saimaniippili/saimaniippili/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" /></div>
 
 <br/>
 
