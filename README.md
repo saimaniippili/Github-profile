@@ -2,4 +2,10 @@
 
 <br/>
 
+<div align="center"><h2>🏆 GITHUB TROPHIES</h2><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimaniippili&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="saimaniippili trophies" /></a></div>
+
+<br/>
+
+<div align="center"><h2>🐍 CONTRIBUTION SNAKE</h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saimaniippili/saimaniippili/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saimaniippili/saimaniippili/output/github-contribution-grid-snake.svg"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saimaniippili/saimaniippili/output/github-contribution-grid-snake.svg"></picture></div>
+
 <div align="center"><h2>🌟 SUPPORT THE CAUSE</h2><p>If you find my projects helpful or just love a good origin story, smash that ⭐ button on my repositories!</p><img src="https://komarev.com/ghpvc/?username=saimaniippili&color=f92a35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></div>
